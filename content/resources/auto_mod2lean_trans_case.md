@@ -9,6 +9,7 @@ description: MIT/Sloan Foundation Industry System Study prepared by the course p
   these issues.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/23238700a8f84ccb5dbb03bba85573df_auto_mod2lean_trans_case.pdf
 file_type: application/pdf
+parent_uid: 289e1361-dc93-773a-ed47-e6a99d4f1f9a
 resourcetype: Document
 title: auto_mod2lean_trans_case.pdf
 uid: 23238700-a8f8-4ccb-5dbb-03bba85573df
